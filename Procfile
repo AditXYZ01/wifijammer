@@ -1,1 +1,1 @@
-start: python wifijammer
+worker: python wifijammer
